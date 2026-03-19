@@ -1,3 +1,4 @@
+package exercicios;
 /*14 - Cadastro de Veículo -  Peça ao usuário digitar modelo do veículo, marca e preço.
 •	Validação: modelo e marca não vazio, preço maior que 0.
 •	Exiba os dados.

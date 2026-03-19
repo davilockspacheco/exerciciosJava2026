@@ -1,3 +1,4 @@
+package exercicios;
 /*10. Cadastro de Produto – Peça ao usuário digitar o Nome do produto e Preço
 •	Nome não pode estar vazio
 •	Preço deve ser maior que zero

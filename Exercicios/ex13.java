@@ -1,3 +1,4 @@
+package exercicios;
 /*13 - Cadastro de Produto mercado - Peça ao usuário digitar nome do alimento e quantidade.
 •	Validação: nome não vazio, quantidade maior que 0.
 •	Exiba os dados.

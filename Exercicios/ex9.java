@@ -1,3 +1,4 @@
+package exercicios;
 /*9. Cadastro de Nota Escolar - Peça ao usuário digitar nome aluno e uma nota de 0 a 10.
 •	Se menor que 0 ou maior que 10 → inválida
 •	Se entre 0 e 10 → válida

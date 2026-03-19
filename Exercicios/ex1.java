@@ -3,7 +3,7 @@
 •	Verifique se contém "@".
 •	Se estiver inválido, mostrar mensagem de erro.
  */
-package Exercicios;
+package exercicios;
 import java.util.Scanner;
 public class ex1 {
     public static void main(String[] args) {

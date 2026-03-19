@@ -1,3 +1,4 @@
+package exercicios;
 /*5. Cadastro de CPF (Validação Simples) -  Peça ao usuário digitar o CPF.
 •	Não pode estar vazio.
 •	Deve ter 11 caracteres.

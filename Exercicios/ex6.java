@@ -1,3 +1,4 @@
+package exercicios;
 /*6. Cadastro de Número Positivo - Peça ao usuário digitar um número inteiro.
 •	Se for negativo, mostrar erro.
 •	Se for zero, avisar que é neutro.

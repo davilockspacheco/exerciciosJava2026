@@ -1,3 +1,4 @@
+package exercicios;
 /*4. Cadastro de Nome Completo -  Peça ao usuário para digitar nome completo.
 •	Não pode estar vazio.
 •	Deve conter pelo menos um espaço (nome e sobrenome).

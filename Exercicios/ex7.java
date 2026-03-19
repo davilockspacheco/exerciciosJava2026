@@ -1,3 +1,4 @@
+package exercicios;
 /*7. Cadastro de Telefone com Tamanho Mínimo - Peça ao usuário digitar o telefone.
 •	Não pode estar vazio.
 •	Deve ter no mínimo 8 dígitos.

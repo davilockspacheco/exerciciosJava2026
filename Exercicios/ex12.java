@@ -1,3 +1,4 @@
+package exercicios;
 /*12 - Cadastro de Livro - Peça usuário digitar título do livro e preço.
 •	Validação: título não pode estar vazio, preço maior que 0.
 •	Exiba os dados

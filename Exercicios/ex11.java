@@ -1,3 +1,4 @@
+package exercicios;
 /*11 - Cadastro de Pessoa com sua Função - Peça ao usuário digitar nome e função 
 (ex: “estudante”, “professor”).
 •	Valide se os campos não estão vazios.

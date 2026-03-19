@@ -1,3 +1,4 @@
+package exercicios;
 /*8. Cadastro de Usuário e Senha - Peça ao usuário digitar um nome e uma senha
 •	Nenhum pode estar vazio
 •	Senha deve ter no mínimo 6 caracteres
